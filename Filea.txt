@@ -1,3 +1,7 @@
 This is the first document
 
+<<<<<<< HEAD
 This the second version of first file
+=======
+third version of first document
+>>>>>>> feature
